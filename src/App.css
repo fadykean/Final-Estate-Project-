@@ -1,0 +1,50 @@
+@import './css/helpers.css';
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+main{
+  display: flex;
+  justify-content: end;
+}
+
+.left{
+  width: 40%;
+  overflow: auto;
+    height: 100vh;
+}
+
+.right{
+  width: 60%;
+}
+
+.container{
+  display: flex;
+}
+
+
+ul{
+  list-style: none;
+}
+
+@media (max-width:850px) {
+  .right ,.left{
+    width: 50%;
+  }
+}
+
+
+
+@media (max-width:600px) {
+  .container {
+   flex-direction: column;
+  }
+
+  .right ,.left{
+    width: 100%;
+  }
+}

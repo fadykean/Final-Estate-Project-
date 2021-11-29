@@ -1,0 +1,128 @@
+[
+    {
+        "id": 0,
+        "name": "dgrd",
+        "desc": "very big house",
+        "price": 4343463,
+        "location": "israel jerusalem",
+        "distance": "2322",
+        "bedrooms": 3,
+        "type": "depratment",
+        "position": {
+            "lng": 35.209185,
+            "lat": 31.7040256
+        }
+    },
+    {
+        "id": 1,
+        "name": "grdgrdgr",
+        "desc": "very huge house",
+        "price": 4656454,
+        "location": "israel hevron",
+        "distance": "453",
+        "bedrooms": 6,
+        "type": "depratment",
+        "position": {
+            "lng": 34.9909185,
+            "lat": 31.5040256
+        }
+    },
+    {
+        "id": 2,
+        "name": "dgrd",
+        "desc": "very big house",
+        "price": 9786876,
+        "location": "israel netanya",
+        "distance": "123",
+        "bedrooms": 5,
+        "type": "depratment",
+        "position": {
+            "lng": 34.9909185,
+            "lat": 32.4040256
+        }
+    },
+    {
+        "id": 3,
+        "name": "grdgrd",
+        "desc": "very big house",
+        "price": 2222222,
+        "location": "israel jerusalem",
+        "distance": "2342",
+        "bedrooms": 3,
+        "type": "depratment",
+        "position": {
+            "lng": 34.9909185,
+            "lat": 31.9040256
+        }
+    },
+    {
+        "id": 4,
+        "name": "ssss",
+        "desc": "very nice house",
+        "price": 1234321,
+        "location": "israel heifa",
+        "distance": "7656",
+        "bedrooms": 1,
+        "type": "depratment",
+        "position": {
+            "lng": 34.9909185,
+            "lat": 32.7040256
+        }
+    },
+    {
+        "id": 5,
+        "name": "grgrdggd",
+        "desc": "very small house",
+        "price": 6545642,
+        "location": "israel modiein",
+        "distance": "231",
+        "bedrooms": 2,
+        "type": "depratment",
+        "position": {
+            "lng": 34.9909185,
+            "lat": 31.4040256
+        }
+    },
+    {
+        "id": 6,
+        "name": "fdgdrd",
+        "desc": "fsefesfes sefesb hfesfesffeouse",
+        "price": 7776664,
+        "location": "israel ashkelon",
+        "distance": "1231",
+        "bedrooms": 6,
+        "type": "depratment",
+        "position": {
+            "lng": 34.5909185,
+            "lat": 31.7040256
+        }
+    },
+    {
+        "id": 7,
+        "name": "hthtfhtgsfe",
+        "desc": "grdgrdgrdrgrd",
+        "price": 3332221,
+        "location": "israel beit shemesh",
+        "distance": "231",
+        "bedrooms": 1,
+        "type": "depratment",
+        "position": {
+            "lng": 34.8909185,
+            "lat": 31.7040256
+        }
+    },
+    {
+        "id": 8,
+        "name": "grgrdgmgnvgngcbxvsfgd",
+        "desc": "grdgrdgrdgrdgdrg",
+        "price": 1112223,
+        "location": "israel netivot",
+        "distance": "231",
+        "bedrooms": 2,
+        "type": "depratment",
+        "position": {
+            "lng": 34.6409185,
+            "lat": 31.4240256
+        }
+    }
+]
